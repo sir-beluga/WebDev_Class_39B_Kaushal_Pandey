@@ -1,6 +1,3 @@
-/* 
-
-*/
 let role = "Admin";
 let isLoggedIn = true;
 if (!isLoggedIn) {
